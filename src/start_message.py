@@ -13,10 +13,10 @@ def start_message(client, message):
         [InlineKeyboardButton("Instructions", callback_data="instructions")],
     ]
     reply_markup = InlineKeyboardMarkup(kkeeyyb)
-    pic_url = "https://drive.google.com/file/d/1TzmuSj05qF6Sm5Z_CSm3AGUCBx4Oe0F0/view?usp=sharing"
+    pic_url = "https://telegra.ph/file/63f34269d6293f55f1798.jpg"
     message.reply_photo(pic_url, caption=f"""**Hi {message.chat.first_name}**,
 
-Welcome to Anime DL Bot, Here you can Download all Anime for FREE 😁!!!
+Welcome to Aɳιɱҽ X DL Bσƚ, Here you can Download all Anime for FREE 😁!!!
 
 __Please read all the instructions about the bot before surfing on...__
 
