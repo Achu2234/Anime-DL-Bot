@@ -20,4 +20,6 @@ Welcome to Aɳιɱҽ X DL Bσƚ, Here you can Download all Anime for FREE 😁!!
 
 __Please read all the instructions about the bot before surfing on...__
 
+Join @Animemusicarchive6 for updates and @Yeageristbots for support
+
 See /whats_new to know about latest updates...""", reply_markup=reply_markup, parse_mode="markdown")
