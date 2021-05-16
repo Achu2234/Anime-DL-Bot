@@ -10,10 +10,10 @@ from pyrogram.types import *
 
 def dev_info(client, message):
     keyb = [
-        [InlineKeyboardButton("Rate me on BotsArchive", url="https://t.me/BotsArchive/1858")]
+        [InlineKeyboardButton("join for updates ", url="https://t.me/Animemusicarchive6")]
     ]
     reply_markup = InlineKeyboardMarkup(keyb)
-    message.reply_text("""Made with ❤️ in 🇮🇳 by <YOUR_TELEGRAM_USERNAME>.
+    message.reply_text("""Made with ❤️ in 🇮🇳 by @Amalbiju154.
 
 Language: [Python3](https://www.python.org/)
 
