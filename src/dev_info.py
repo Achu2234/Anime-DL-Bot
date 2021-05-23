@@ -15,10 +15,14 @@ def dev_info(client, message):
     reply_markup = InlineKeyboardMarkup(keyb)
     message.reply_text("""Made with ❤️ in 🇮🇳 by @Amalbiju154.
 
-Language: [Python3](https://www.python.org/)
+Made with ❤️ in 🇮🇳 by @Amalbiju154.
 
-Bot Framework: [Pyrogram Asyncio](https://github.com/pyrogram/pyrogram)
+Language: Python3
 
-Server: <YOUR_SERVER_NAME>
+Bot Framework: Pyrogram Asyncio
+
+Server: herku
+
+Credits: @cosmicpredator
 
 Please share the bot if you like it 👍👍""", reply_markup=reply_markup, parse_mode="markdown")
